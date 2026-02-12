@@ -1,0 +1,2 @@
+# para subir o servidor, digite:
+    php -S localhost:8888
